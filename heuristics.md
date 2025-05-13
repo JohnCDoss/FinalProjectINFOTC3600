@@ -45,15 +45,14 @@
 ## 8. Aesthetic and Minimalist Design
 - **Issue**: Cramped home layout with unlabeled icons.
 - **Severity**: 3/5  
-  <img src="https://github.com/user-attachments/assets/7717bc31-36e8-48ec-a298-9540477396ca" width="300">
-  
+  <img src="https://github.com/user-attachments/assets/7717bc31-36e8-48ec-a298-9540477396ca" width="300"> 
 - **Recommendation**: Use background and spacing that doesn't conflict with fonts and icons.
 
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
 - **Issue**: No strong warning for injured/unavailable players.
-- **Severity**: 4/5   
-- **Recommendation**: Block selection with a clear popup.
+- **Severity**: 4/5
   <img src="https://github.com/user-attachments/assets/5c993b1c-5e5b-4e9b-a6cd-509e97e078f4" width="300">
+- **Recommendation**: Block selection with a clear popup.
 
 ## 10. Help and Documentation
 - **Issue**: Rules/help buried deep in menus.
