@@ -2,8 +2,7 @@
 
 ## 1. Visibility of System Status
 - **Issue**: No clear feedback after making transfers.
-- **Severity**: 4/5  
-- **Screenshot**: After confirming a transfer (no confirmation shown).  
+- **Severity**: 4/5   
 - **Recommendation**: Show persistent confirmation banners or save indicators.
 
 ## 2. Match Between System and the Real World
@@ -14,14 +13,12 @@
 
 ## 3. User Control and Freedom
 - **Issue**: No undo/cancel button during transfers.
-- **Severity**: 4/5  
-- **Screenshot**: Transfer screen with no visible undo option.  
+- **Severity**: 4/5    
 - **Recommendation**: Add undo and “cancel all changes” buttons.
 
 ## 4. Consistency and Standards
 - **Issue**: UI changes between Fantasy, News, and Stats.
-- **Severity**: 3/5  
-- **Screenshot**: Switch tabs and show changing bottom menus.  
+- **Severity**: 3/5    
 - **Recommendation**: Keep nav bar consistent across sections.
 
 ## 5. Error Prevention
@@ -32,14 +29,12 @@
 
 ## 6. Recognition Rather Than Recall
 - **Issue**: Rules for captains/bench aren’t visible.
-- **Severity**: 3/5  
-- **Screenshot**: Captain selection or bench screen.  
+- **Severity**: 3/5   
 - **Recommendation**: Add rule reminders on-screen.
 
 ## 7. Flexibility and Efficiency of Use
 - **Issue**: Power features like chips or live points are buried.
-- **Severity**: 3/5  
-- **Screenshot**: Accessing “Triple Captain” (multi-tap).  
+- **Severity**: 3/5    
 - **Recommendation**: Add shortcuts or swipe controls.
 
 ## 8. Aesthetic and Minimalist Design
