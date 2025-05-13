@@ -46,7 +46,8 @@
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
 - **Issue**: No strong warning for injured/unavailable players.
 - **Severity**: 4/5
-  <img src="https://github.com/user-attachments/assets/5c993b1c-5e5b-4e9b-a6cd-509e97e078f4" width="300">
+  <img src="https://github.com/user-attachments/assets/4de0ce2d-4565-4350-9179-966045a7da7f" width="300">
+
 - **Recommendation**: Block selection with a clear popup.
 
 ## 10. Help and Documentation
