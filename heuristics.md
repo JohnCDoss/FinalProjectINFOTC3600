@@ -52,7 +52,7 @@
 - **Issue**: No strong warning for injured/unavailable players.
 - **Severity**: 4/5   
 - **Recommendation**: Block selection with a clear popup.
-  ![image](https://github.com/user-attachments/assets/5c993b1c-5e5b-4e9b-a6cd-509e97e078f4)
+  <img src="https://github.com/user-attachments/assets/5c993b1c-5e5b-4e9b-a6cd-509e97e078f4" width="400">
 
 ## 10. Help and Documentation
 - **Issue**: Rules/help buried deep in menus.
