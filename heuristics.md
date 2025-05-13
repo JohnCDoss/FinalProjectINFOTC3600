@@ -46,6 +46,7 @@
 ## 9. Help Users Recognize, Diagnose, and Recover from Errors
 - **Issue**: No strong warning for injured/unavailable players.
 - **Severity**: 4/5
+  
   <img src="https://github.com/user-attachments/assets/4de0ce2d-4565-4350-9179-966045a7da7f" width="300">
 - **Recommendation**: Block selection with a clear popup.
 
@@ -54,3 +55,7 @@
 - **Severity**: 2/5  
   <img src="https://github.com/user-attachments/assets/9a9d4878-2a39-433a-b2c8-2dbc4f4e7138" width="300">
 - **Recommendation**: Add a “?” help button that’s always visible.
+
+## Pages
+- [Read Me](README.md)
+- [Recommendations](recommendations.md)
